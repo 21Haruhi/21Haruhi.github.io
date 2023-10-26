@@ -1,0 +1,2 @@
+# 2023.10.26
+manifest.json文件跟pwa相关，路径默认是source文件下，错误无pwa按钮
