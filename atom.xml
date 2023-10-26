@@ -6,7 +6,7 @@
   <link href="https://21haruhi.github.io/atom.xml" rel="self"/>
   
   <link href="https://21haruhi.github.io/"/>
-  <updated>2023-10-26T17:55:51.730Z</updated>
+  <updated>2023-10-26T17:59:48.341Z</updated>
   <id>https://21haruhi.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://21haruhi.github.io/post/2ec3464e.html"/>
     <id>https://21haruhi.github.io/post/2ec3464e.html</id>
     <published>2023-10-26T02:05:00.000Z</published>
-    <updated>2023-10-26T17:55:51.730Z</updated>
+    <updated>2023-10-26T17:59:48.341Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="学会热爱生活"><a href="#学会热爱生活" class="headerlink" title="学会热爱生活"></a>学会热爱生活</h1><blockquote><p>原来，盛开的花不是预示着未来会越来越好<br>  而是提前为你准备好的礼物<br>  昨日的叹为观止，今日却寻常不过<br>  这世界上，不存在终点<br>  <img src="http://sapphire-go.oss-cn-beijing.aliyuncs.com/nose.jpg" alt=""></p></blockquote><div class="tip home"><p>home</p></div>]]></content>
+    <content type="html"><![CDATA[<h1 id="学会热爱生活"><a href="#学会热爱生活" class="headerlink" title="学会热爱生活"></a>学会热爱生活</h1><blockquote><p>原来，盛开的花不是预示着未来会越来越好<br>  而是提前为你准备好的礼物<br>  昨日的叹为观止，今日却寻常不过<br>  这世界上，不存在终点<br>  <img src="https://sapphire-go.oss-cn-beijing.aliyuncs.com/nose.jpg" alt=""></p></blockquote><div class="tip home"><p>home</p></div>]]></content>
     
     
       
@@ -44,7 +44,7 @@
     <link href="https://21haruhi.github.io/post/4a17b156.html"/>
     <id>https://21haruhi.github.io/post/4a17b156.html</id>
     <published>2023-10-24T10:23:28.915Z</published>
-    <updated>2023-10-26T17:55:54.462Z</updated>
+    <updated>2023-10-26T18:02:18.251Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
