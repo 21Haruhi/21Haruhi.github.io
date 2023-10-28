@@ -6,7 +6,7 @@
   <link href="https://21haruhi.github.io/atom.xml" rel="self"/>
   
   <link href="https://21haruhi.github.io/"/>
-  <updated>2023-10-27T05:07:32.601Z</updated>
+  <updated>2023-10-28T11:51:02.046Z</updated>
   <id>https://21haruhi.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>吐槽</title>
+    <link href="https://21haruhi.github.io/post/62f4a42b.html"/>
+    <id>https://21haruhi.github.io/post/62f4a42b.html</id>
+    <published>2023-10-28T10:00:00.000Z</published>
+    <updated>2023-10-28T11:51:02.046Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="大功告成"><a href="#大功告成" class="headerlink" title="大功告成"></a>大功告成</h1><blockquote><p>至此，我的博客总体框架也算搭建完成了，剩下的就是把自己的主页美化的更加好看一些，有空的时间再弄吧~~<br>在看了安知鱼up主的b站视频，前前后后花了3天的时间才搞定，不免觉得自己发现问题并解决问题的能力有些不足，甚至有些不务正业。毕竟自己还有其他的任务要完成。</p><h1 id="保持热情"><a href="#保持热情" class="headerlink" title="保持热情"></a>保持热情</h1><p>这个星期我对自己的表现是十分不满意的，没有学习热情，没有一点对未来的担忧和紧迫感。<br>做事情三分热度，学习过程中极度容易受到外界的影响，尤其在宿舍，经常学不下去，哪怕是一个人。<br>听说喝可乐过多会使人焦虑、失眠，在学习也难以集中精神，或许自己应该尝试这戒掉这不健康的饮品。</p><h1 id="学会自制"><a href="#学会自制" class="headerlink" title="学会自制"></a>学会自制</h1><p>总而言之，这段时间让我发现了自己的问题所在，自己该考虑的，不仅仅是学习的进度，还有身体的健康。<br>希望从此刻开始，自己能时刻保持学习的热情，去迎接未来的一切挑战，完成自己每日的目标，每天进步一点点！</p></blockquote><div class="tip home"><p>home</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;大功告成&quot;&gt;&lt;a href=&quot;#大功告成&quot; class=&quot;headerlink&quot; title=&quot;大功告成&quot;&gt;&lt;/a&gt;大功告成&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;至此，我的博客总体框架也算搭建完成了，剩下的就是把自己的主页美化的更加好看一些，有空的时间再弄吧~</summary>
+      
+    
+    
+    
+    
+    <category term="吐槽" scheme="https://21haruhi.github.io/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>日常</title>
     <link href="https://21haruhi.github.io/post/2ec3464e.html"/>
     <id>https://21haruhi.github.io/post/2ec3464e.html</id>
     <published>2023-10-26T02:05:00.000Z</published>
-    <updated>2023-10-27T05:07:32.601Z</updated>
+    <updated>2023-10-28T10:01:54.502Z</updated>
     
     <content type="html"><![CDATA[<h1 id="学会热爱生活"><a href="#学会热爱生活" class="headerlink" title="学会热爱生活"></a>学会热爱生活</h1><blockquote><p>原来，盛开的花不是预示着未来会越来越好<br>  而是提前为你准备好的礼物<br>  昨日的叹为观止，今日却寻常不过<br>  这世界上，不存在终点<br>  <!-- ![](https://github.com/21Haruhi/21Haruhi-save/blob/main/nose.jpg?raw=true) --><br>  <!-- ![](https://gitee.com/sample-of-commoners/blog-image-warehouse/raw/master/nose.jpg) --><br>  <img src="https://z1.ax1x.com/2023/10/27/piZ4zIe.jpg" alt=""></p></blockquote><div class="tip home"><p>home</p></div>]]></content>
     
@@ -44,7 +67,7 @@
     <link href="https://21haruhi.github.io/post/4a17b156.html"/>
     <id>https://21haruhi.github.io/post/4a17b156.html</id>
     <published>2023-10-24T10:23:28.915Z</published>
-    <updated>2023-10-27T05:17:33.373Z</updated>
+    <updated>2023-10-27T05:17:54.560Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
